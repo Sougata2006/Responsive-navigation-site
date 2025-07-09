@@ -2,6 +2,8 @@
 
 This is a simple, responsive multi-page website built with **HTML** and **CSS**. It features a clean navigation bar linking four sections: **Home**, **About**, **Product**, and **Contact**. Each page includes professional placeholder content suitable for personal or demo projects.
 
+---
+
 ## 🌐 Live Demo
 [*(https://sougata2006.github.io/Responsive-navigation-site/)*]
 
@@ -40,13 +42,26 @@ Offers clear contact information, encouraging visitors to get in touch.
 ## 🚀 How to Use
 1. Clone this repository:
 https://sougata2006.github.io/Responsive-navigation-site/
+2.Open any of the HTML files in your browser.
+3.Deploy to GitHub Pages for free hosting.
 
-
-3. Open `index.html` in your browser.
+---
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/652f4593-12fc-487a-ba5b-3858575594eb)
 
+---
+
+## 💡 Notes
+All pages are in the same folder, making navigation simple and reliable.
+
+You can customize the content and styling as needed.
+
+Perfect for learning and practicing basic web development concepts.
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
+You are free to use, modify, and distribute this code for personal or commercial purposes.
 
